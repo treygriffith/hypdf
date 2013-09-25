@@ -21,5 +21,8 @@
 		"type": "git",
 		"url": "git://github.com/treygriffith/hypdf.git"
 	},
-	"main": "./index.js"
+	"main": "./index.js",
+	"dependencies": {
+		"request": "2.27.x"
+	}
 }
