@@ -1,0 +1,25 @@
+{
+	"name": "hypdf",
+	"version": "0.0.1",
+	"description": "Node.js wrapper for the HyPDF Heroku Add-on",
+	"keywords": [
+		"hypdf",
+		"hypdf.js",
+		"pdf",
+		"pdfunite"
+	],
+	"license": "MIT",
+	"author": {
+		"name": "Trey Griffith",
+		"email": "trey.griffith@gmail.com",
+		"url": "http://tgriff3.com"
+	},
+	"engines": {
+		"node": "0.10.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/treygriffith/hypdf.git"
+	},
+	"main": "./index.js"
+}
