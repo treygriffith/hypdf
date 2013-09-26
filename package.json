@@ -23,7 +23,6 @@
 	},
 	"main": "./index.js",
 	"dependencies": {
-		"request": "2.27.x",
-		"form-data": "*"
+		"request": "2.27.x"
 	}
 }
