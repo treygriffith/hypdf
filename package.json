@@ -1,6 +1,6 @@
 {
 	"name": "hypdf",
-	"version": "0.0.13",
+	"version": "0.1.0",
 	"description": "Node.js wrapper for the HyPDF Heroku Add-on",
 	"keywords": [
 		"hypdf",
@@ -24,6 +24,6 @@
 	"main": "./index.js",
 	"dependencies": {
 		"request": "2.27.x",
-		"form-data": "0.1.x"
+		"form-data": "git://github.com/treygriffith/node-form-data.git"
 	}
 }
