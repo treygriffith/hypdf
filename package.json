@@ -24,6 +24,6 @@
 	"main": "./index.js",
 	"dependencies": {
 		"request": "2.27.x",
-		"form-data": "git://github.com/treygriffith/node-form-data.git"
+		"form-data": "0.1.x"
 	}
 }
