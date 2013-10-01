@@ -25,5 +25,9 @@
 	"dependencies": {
 		"request": "2.27.x",
 		"form-data": "0.1.x"
+	},
+	"devDependencies": {
+		"mocha": "1.13.0",
+		"temp": "0.6.0"
 	}
 }
